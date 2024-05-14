@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.link{
+    cursor: pointer;
+}
+.front{
+    background: url("/depositphotos_191160766-stock-illustration-vector-cinema-pattern-cinema-seamless.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.logo{
+    width: 150px;
+    height: 100%;
+    background-image: url('/360_F_450548040_4oGP6VXOAVEdVxJncpujtOprwC1jVBsi-removebg-preview.png');
+    background-size: cover;
+    background-position: center;
+}
+.heading{
+    text-shadow: 2px 2px 20px black;
+}
